@@ -1,6 +1,6 @@
 name: mlflow-exampl
 channels:
-  - produce-metrics
+  - defaults
 dependencies:
   - numpy=1.14.3
   - pandas=0.22.0
