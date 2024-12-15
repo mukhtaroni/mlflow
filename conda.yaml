@@ -1,6 +1,6 @@
 name: mlflow-example
 channels:
-  - defaults
+  - mlflow-example
 dependencies:
   - numpy=1.14.3
   - pandas=0.22.0
